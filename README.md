@@ -1,4 +1,4 @@
 # PyGame Novel Dependencies
 
 This version contains plain text file rather than ```source/``` directory
-for windows, mac and linux
+for windows, mac and linux on outdated version
